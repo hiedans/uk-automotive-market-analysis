@@ -1,0 +1,9 @@
+year,bev_share_pct,source,note
+2019,1.6,SMMT / DfT vehicle licensing statistics,
+2020,6.6,SMMT / DfT vehicle licensing statistics,
+2021,11.6,"SMMT, via Zapmap EV market data",
+2022,16.6,"SMMT, via Zapmap EV market data",
+2023,16.5,SMMT year-end figures (widely reported),"approx., full-year"
+2024,19.6,DfT vehicle licensing statistics 2025 release,
+2025,23.4,DfT vehicle licensing statistics 2025 release / Zapmap,
+2026,21.8,"DfT vehicle licensing statistics, Jan-Mar 2026 release","Q1 2026 only, not full year"
